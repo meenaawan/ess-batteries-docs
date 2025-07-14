@@ -1,3 +1,2 @@
 # ess-batteries-docs
-## Visit Our Website
-We are a global supplier of [ESS batteries, lithium cells, and BMS accessories](https://synergytechnology.tech). Trusted exporter from China.
+Visit our [ESS Battery Website](https://synergytechnology.tech/) for high-quality lithium cells, prismatic and cylindrical batteries, and BMS accessories. We export globally from China and offer OEM energy storage solutions.
